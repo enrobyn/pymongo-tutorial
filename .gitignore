@@ -1,0 +1,17 @@
+
+# virtual environment inside this directory
+venv/
+
+# keys
+secure.py
+secure.py~
+
+# stuff from Mac OS
+.DS_Store
+.gitignore~
+*~
+#.gitignore#
+
+# from Python
+__pycache__/
+*.pyc
